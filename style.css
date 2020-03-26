@@ -28,24 +28,28 @@ body{
 header{
 	height:120px;
 	background-color:lavender;
+	text-align:center;
+	font:black;
 }
 
 article{
-	height:900px;
-	width:250px;
-	background-color:lavender;
-	float:left;
-}
-
-aside{
-	height:900px;
+	height:1300px;
 	width:710px;
 	background-color:lavender;
 	float:right;
+}
+
+aside{
+	height:1300px;
+	width:250px;
+	background-color:lavender;
+	float:left;
+	text-align:center;
 }
 
 footer{
 	height:60px;
 	background:lavender;
 	clear:both;
+	text-align:center;
 }
